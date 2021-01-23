@@ -9,11 +9,11 @@ It works offline also and keeps up with your transactions then upoads them when 
 
 # Deployed 
 
-[Heroku](https://whispering-mesa-83717.herokuapp.com/)
+![Heroku](https://whispering-mesa-83717.herokuapp.com/)
 
 # Screen Shot
 
- [image] (images/Screen Shot 2021-01-22 at 9.27.59 PM (2).png)
+ [image](images/Screen Shot 2021-01-22 at 9.27.59 PM (2).png)
 
 
 # Technologies 
